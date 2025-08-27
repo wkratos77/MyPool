@@ -2,7 +2,7 @@
 
 ---
 
-⚠️ **Disclaimer**  
+## ⚠️ Disclaimer  
 This repository contains my **test versions** of exercises from the 42 School pool.  
 These are **not the final versions** I submitted to the Molinette, since I didn’t have time to push the last forms from the school repo.  
 
@@ -10,6 +10,6 @@ They are here mainly for **reference and practice**, not as polished solutions y
 
 ---
 
-**Have a great day and good luck with your pool**
+### **Have a great day and good luck with your pool!**
 
 ---
